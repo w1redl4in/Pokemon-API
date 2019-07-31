@@ -1,1 +1,1 @@
-Teste, segundo commit
+Pequeno repositório onde treino Git e Ruby (API)
