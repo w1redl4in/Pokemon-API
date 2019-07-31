@@ -16,7 +16,7 @@ pokemon = open("https://pokeapi.co/api/v2/pokemon/#{pokemon_id}").read
 pokemon_json = JSON.parse(pokemon)
 
 
-
+# Menu
 puts "========================="
 puts "   POKÉMON INFORMATION"
 puts "========================="
