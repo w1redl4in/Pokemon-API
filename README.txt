@@ -1,1 +1,1 @@
-Pequeno repositório onde treino Git e Ruby (API)
+Pequeno repositório para prática de Git e Public APIs em Ruby
