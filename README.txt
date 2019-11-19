@@ -1,1 +1,1 @@
-Pequeno repositório para prática de Git e Public APIs em Ruby
+Consumindo API REST em Ruby
